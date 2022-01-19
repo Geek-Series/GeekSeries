@@ -15,21 +15,20 @@ cred
 upgrad
 boat
 makemytrip
-<i>upstocks</i>
-<i>urban company</i>
-<i>daily hunt</i>
-<i>hacker earth</i>
-<i>meesho</i>
+upstocks
+urban company
+daily hunt
+hacker earth
+meesho
 mindtickle
 yahoo
 swiggy
 redhat
-<i>droom</i>
-
+droom
 blackbuck
 digit
 vedantu
 
-removed:
+removed--
 codechef
 congnizant
