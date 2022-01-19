@@ -32,3 +32,4 @@ Grow
 upstox
 grofers
 cardekho
+terdata
