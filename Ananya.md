@@ -47,6 +47,7 @@ Samsung Recruitment Process is conducted every year to select new candidates. Th
 <b>Global Samsung Aptitude Test(GSAT)</b><br>
 GSAT consists of 50 Aptitude Questions which is to be covered in 1 hr or 60 minutes. Along with the aptitude questions, there will be reasoning questions also to check your logical power.
 
+<br>
 
 <b>Eligibility Criteria</b><br>
 The candidate must have achieved 70% in aggregate throughout 10th, 12th, and graduation (B. Tech-Computer Science/ IT / Electronics ). The candidate must not have any backlogs at the time of applying. The candidate must have good communication and oral skills.<br>
@@ -61,8 +62,10 @@ Technical Paper(C,C++, Data structure, operating system)<br>
 Technical Interview<br>
 HR round<br>
 </b>
+<br>
+<br>
 
-<i>It consists of two sections: (Samsung placement criteria)</i><br>
+<i>It consists of two sections: (Samsung placement criteria)</i><br><br>
 <b>Section-1</b><br>
 It judges the Quantitative ability comprising of Data Interpretation(pie chart, bar chart, line graph) ,percentage, profit and loss , time and work, etc. During this test samsung checks Data interrelation skill of a candidate.<br>
 
