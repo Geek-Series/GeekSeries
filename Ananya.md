@@ -55,12 +55,12 @@ The candidate must have achieved 70% in aggregate throughout 10th, 12th, and gra
 <b>No.of Stages</b><br>
 The total number of stages in the complete Samsung Recruitment process is Four. A candidate need to qualify all these four levels to get the final placement offer from the company. Following are the four stages that a candidate will face during the Samsung placement drive-
 
-<>
+<b>
 GSAT(Aptitude & Reasoning- 50 questions)<br>
 Technical Paper(C,C++, Data structure, operating system)<br>
 Technical Interview<br>
 HR round<br>
-</br>
+</b>
 
 <i>It consists of two sections: (Samsung placement criteria)</i><br>
 <b>Section-1</b><br>
