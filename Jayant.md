@@ -37,6 +37,6 @@ codechef <br>
 congnizant <br>
  -->
 
-<hr>
+
 
 <a href="microsoft.md">MICROSOFT</a>
