@@ -1,7 +1,7 @@
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><h2>SAMSUNG</h2>&nbsp;
-<p align="left">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><p align="Center" ><h2>SAMSUNG</h2>
   <code> <img height="70" src="https://www.vectorlogo.zone/logos/samsung/samsung-ar21.svg"> </code>
+  </p>
 
 <h3>Overview</h3><br>
 
