@@ -1,5 +1,4 @@
-<code> <img height="100" align="left" src="https://www.vectorlogo.zone/logos/samsung/samsung-ar21.svg"> </code>
-&nbsp;&nbsp;
+<H1>SAMSUNG</H1>
   
 <h3>Overview</h3><br>
 
