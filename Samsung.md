@@ -1,4 +1,4 @@
-<H1>                                                              SAMSUNG</H1>
+<H1>SAMSUNG</H1>
   
 <h3>Overview</h3><br>
 
