@@ -1,9 +1,7 @@
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><p align="Center" ><h2>SAMSUNG</h2>
-  <code> <img height="70" src="https://www.vectorlogo.zone/logos/samsung/samsung-ar21.svg"> </code>
-  </p>
-
-<h3>Overview</h3><br>
+<code> <img height="70" align="left" src="https://www.vectorlogo.zone/logos/samsung/samsung-ar21.svg"> </code>
+<h1>SAMSUNG</h1>
+  
+  <h3>Overview</h3><br>
 
 Samsung Group is a South Korean multinational conglomerate headquartered in Samsung Town, Seoul. It comprises numerous subsidiaries and affiliated businesses. Notable Samsung industrial subsidiaries include Samsung Electronics, Samsung Heavy Industries , Samsung Engineering and Samsung C&T. 
 <br>
