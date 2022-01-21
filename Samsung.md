@@ -1,6 +1,5 @@
-<h2>SAMSUNG</h2>
-
-
+<h1>SAMSUNG</h1>
+  
 <h3>Overview</h3><br>
 
 Samsung Group is a South Korean multinational conglomerate headquartered in Samsung Town, Seoul. It comprises numerous subsidiaries and affiliated businesses. Notable Samsung industrial subsidiaries include Samsung Electronics, Samsung Heavy Industries , Samsung Engineering and Samsung C&T. 
