@@ -1,27 +1,12 @@
-<<<<<<< HEAD
-<a href=Samsung.md>SAMSUNG</a><br>
-<a href=Facebook.md>FACEBOOK</a><br>
-<a href=IBM.md>IBM</a><br>
-<a href=Cisco.md>CISCO</a><br>
+<ol>
+<li><a href=Samsung.md>SAMSUNG</a></li>
+<li><a href=Facebook.md>FACEBOOK</a></li>
+<li><a href=IBM.md>IBM</a></li>
+<li><a href=Cisco.md>CISCO</a></li>
+</ol>
 
 
 <!-- 
-tower research
-=======
-<OL>
-  <LI><a href=Samsung.md>SAMSUNG</a></LI><BR>
-  <LI><a href=Facebook.md>FACEBOOK</a></LI><BR>
-  
-  </OL>
-
-
-
-<!-- 
-snapchat
-IBM
-cisco
-towersearch
->>>>>>> 235373c0800211ec1d35c386dd078c04af8d804d
 accenture
 paypal
 paytm

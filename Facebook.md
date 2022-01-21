@@ -1,10 +1,11 @@
-<<<<<<< HEAD
-<h2>FACEBOOK</h2>
+
+<h1>FACEBOOK</h1>
+
+<h3>Overview</h3>
 The Facebook company is now Meta. Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.
 
 Company Website : www.facebook.com
 
-<h3>Overview</h3><br>
 
 <H3>Facebook Eligibility Criteria:</H3>
 
@@ -68,7 +69,7 @@ There are two types of design interview- system design or product design. The in
 <H3>Behavioral/ Cultural fit Interview Round</H3>
 In this interview, the panel intends to evaluate the personality traits of the candidate. Questions are asked around candidate’s personal values, motivations, history, profile and future plans. Candidate is expected to support his/her answers with examples and anecdotes. The interviewers also tend to check if the candidate is a good fit for the company culture.
 <BR>
-=======
+
 <h2>FACEBOOK</h2>
 
 
@@ -136,5 +137,5 @@ There are two types of design interview- system design or product design. The in
 <H3>Behavioral/ Cultural fit Interview Round</H3>
 In this interview, the panel intends to evaluate the personality traits of the candidate. Questions are asked around candidate’s personal values, motivations, history, profile and future plans. Candidate is expected to support his/her answers with examples and anecdotes. The interviewers also tend to check if the candidate is a good fit for the company culture.
 <BR>
->>>>>>> 235373c0800211ec1d35c386dd078c04af8d804d
+
 <HR>
