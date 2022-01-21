@@ -40,3 +40,14 @@ Finally onsite inerview(4 INTERVIEWS)<br>
 <li> How do you go about securing buy-in from stakeholders?
 <li> What is a stack?</li>
 <li> How would you write a script that reversed the contents of an array?</li>
+
+<hr>
+
+<h2>FAQ</h2>
+
+<h4>What questions can i ask in end</h4>
+    <li>How would you describe Microsoft as an employer?</li>
+    <li>When you first started with Microsoft, was there anything about working for the company that surprised you?</li>
+    <li>Can you tell me what an average day in this position looks like?</li>
+    <li>What do the most successful employees in this role have in common?</li>
+    <li>How would you define success for this job?</li>
