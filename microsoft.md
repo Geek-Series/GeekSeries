@@ -13,7 +13,14 @@ Finally onsite inerview(4 INTERVIEWS)<br>
 <hr>
  
 <h2>Telephonic interview</h2>
-<li>First your resume is checked so it should be perfect</li>
+<li>Questions asked in telephonic interview are as followed:
+ </li>
+
+<hr>
+ 
+<h2>Online Test</h2>
+<li>
+ </li>
 
 <hr>
 
@@ -45,7 +52,7 @@ Finally onsite inerview(4 INTERVIEWS)<br>
 
 <h2>FAQ</h2>
 
-<h4>What questions can i ask in end</h4>
+<h4>Q:What questions can i ask in end</h4>
     <li>How would you describe Microsoft as an employer?</li>
     <li>When you first started with Microsoft, was there anything about working for the company that surprised you?</li>
     <li>Can you tell me what an average day in this position looks like?</li>
