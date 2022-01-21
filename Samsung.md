@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <h1>SAMSUNG</h1>
+=======
+<H1>SAMSUNG</H1>
+>>>>>>> 235373c0800211ec1d35c386dd078c04af8d804d
   
 <h3>Overview</h3><br>
 

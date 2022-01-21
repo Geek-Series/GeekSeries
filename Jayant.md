@@ -1,4 +1,4 @@
-<b>List:</b> <br>
+<!-- <b>List:</b> <br>
 
 Amazon <br>
 almac <br>
@@ -35,8 +35,8 @@ vedantu <br>
 removed: <br>
 codechef <br>
 congnizant <br>
+ -->
 
 
-<hr>
 
-<a href="Microsoft.md">MICROSOFT</a>
+<a href="microsoft.md">MICROSOFT</a>
