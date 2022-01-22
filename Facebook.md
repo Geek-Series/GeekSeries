@@ -50,6 +50,7 @@ Pay close attention to the question and look up for hints, if any.<BR>
 <H3>Interview Rounds</H3>
 Usually, there are 4 rounds of interview. Some of the interviews may be held over phone or video calls. Each interview is of 45 minutes.
 <BR>
+
  Facebook conducts the following three types of interviews:<BR>
 
 1.Coding Interview<BR>
@@ -70,5 +71,62 @@ There are two types of design interview- system design or product design. The in
 <H3>Behavioral/ Cultural fit Interview Round</H3>
 In this interview, the panel intends to evaluate the personality traits of the candidate. Questions are asked around candidate’s personal values, motivations, history, profile and future plans. Candidate is expected to support his/her answers with examples and anecdotes. The interviewers also tend to check if the candidate is a good fit for the company culture.
 <BR>
+<hr>
+
+<h3>Facebook interview question asked in a coding interview</h3>
+<ol>
+<li>Arrays: Merge overlapping intervals</li>
+<li>Convert binary tree into a doubly-linked list</li>
+<li>Dynamic Programming: Find maximum single sell profit</li>
+<li>Find Kth largest element in an unsorted array.</li>
+<li>Evaluation of a postfix expression.</li> 
+<li>Add two numbers as a linked list.</li>
+<li>Find the largest rectangle in a histogram.</li>
+<li>Find minimum depth in a binary tree.</li>
+<li>Search in a rotated sorted array.</li>
+<li>Serialise/deserialise a given binary tree.</li>
+</ol><hr>
+
+<h3>Facebook interview questions asked in System Design Interview</h3>
+<ol>
+<li>Design a highly consistent database</li>
+<li>How would you design Facebook</li>
+<li>Design a URL shortener</li>
+<li>Design Facebook Messenger</li>
+<li>Design Live Commenting</li>
+<li>Design a simpler version of Instagram</li>
+<li>Design Proximity Server</li>
+<li>Design Privacy Settings at Facebook</li>
+<li>Design a recommendation system</li>
+</ol><hr>
+
+
+<h3>Facebook interview questions asked in Behavioral Interview</h3>
+<ol>
+<li>Tell me about yourself</li>
+<li>Describe a time when your project failed</li>
+<li>Tell me about some of the accomplishment of your career</li>
+<li>How will you define goals for your team?</li>
+<li>What do you do to stay motivated?</li>
+<li>What would you do if your interviewer is not there?</li>
+<li>Why do you want to work for Facebook?</li>
+</ol>
+<hr>
+
+<h3>Frequently Asked Questions</h3>
+<b>Q: What is the interview process like on Facebook?</b><br>
+A:First, you will get a call from a recruiter to know all about you, then you will get a link for coding containing questions of DS and algorithms. Then comes the onsite interview, which consists of 2-3 rounds of coding interview, 1-2 rounds of system design interview and one behavioural interview.<br><br>
+
+<b>Q:How hard is it to get an interview on Facebook?</b><br>
+A:It is quite hard to get a job at Facebook. You should be thorough with DS, algorithms and time complexity problems. Moreover, you should have a depth of knowledge in system design and your behaviour should fit with facebook’s culture.<br>
+
+<b>Q:How many rounds of the interview does Facebook have?</b><br>
+A:Facebook has two stages of interviews. One is Screen Interview and then is the on-site Interview which further consists of a coding interview, system design interview and behavioural interview.<br>
+
+<b>Q:What is the hiring process at Facebook?</b><br>
+A:Either you will get a call from a recruiter who looked up your profile at Linkedin, or you have to directly apply at Facebook. You can also get a referral from a friend working at Facebook.<br>
+
+<b>Q:How long is the hiring process on Facebook?</b><br>
+A:The hiring process at Facebook is about 4-8 weeks.<br>
 
 <HR>
