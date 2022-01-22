@@ -74,8 +74,8 @@ The HR interview round takes around 40-50 minutes. HR will ask you about the rol
 <li>What are the features of an IP access list?</li>
 <li>How will you use a linked list to simulate 3 TCP/IP packets?</li>
 <li>What is a firewall and what is the security level in an ASA firewall?</li>
-<li>What is recovery testing?<li>
-<li>What is a gateway?<li>
+<li>What is recovery testing?</li>
+<li>What is a gateway?</li>
 <li>What is Routing?</li>
 </ol>
 <hr>
